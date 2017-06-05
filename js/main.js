@@ -2,7 +2,7 @@ $('form.ajax').on('submit', function (){
 
   var that = $(this),
       url = that.attr('action'),
-      method = that.attr('method'),
+      type = that.attr('method'),
       data = {};
 
   that.find('[name]').each(function(){
@@ -14,7 +14,15 @@ $('form.ajax').on('submit', function (){
 
   });
 
-  console.log(data);
+  $.ajax({
+    url: url,
+    type: type,
+    data: data,
+    success: function(response) {
+      console.log(response)
+    }
+
+  });
 
   return false;
 });

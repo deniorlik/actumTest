@@ -9,6 +9,12 @@
 	],
 "creatorBuild": "25813",
 "files": {
+	"\/ajax\/contact.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/ajax\/contact.php",
+		"oF": 0
+		},
 	"\/bootstrap\/css\/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
