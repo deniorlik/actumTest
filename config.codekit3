@@ -9,189 +9,205 @@
 	],
 "creatorBuild": "25813",
 "files": {
-	"\/css\/bootstrap\/css\/bootstrap-theme.css": {
+	"\/bootstrap\/css\/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/css\/bootstrap\/css\/bootstrap-theme-min.css",
+		"oAP": "\/bootstrap\/css\/bootstrap-theme-min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/css\/bootstrap\/css\/bootstrap-theme.css.map": {
+	"\/bootstrap\/css\/bootstrap-theme.css.map": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/css\/bootstrap\/css\/bootstrap-theme.css.map",
+		"oAP": "\/bootstrap\/css\/bootstrap-theme.css.map",
 		"oF": 0
 		},
-	"\/css\/bootstrap\/css\/bootstrap-theme.min-min.css": {
+	"\/bootstrap\/css\/bootstrap-theme.min-min.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/css\/bootstrap\/css\/bootstrap-theme.min-min-min.css",
+		"oAP": "\/bootstrap\/css\/bootstrap-theme.min-min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/css\/bootstrap\/css\/bootstrap-theme.min-min.css.map": {
+	"\/bootstrap\/css\/bootstrap-theme.min-min.css.map": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/css\/bootstrap\/css\/bootstrap-theme.min-min.css.map",
+		"oAP": "\/bootstrap\/css\/bootstrap-theme.min-min.css.map",
 		"oF": 0
 		},
-	"\/css\/bootstrap\/css\/bootstrap-theme.min.css": {
+	"\/bootstrap\/css\/bootstrap-theme.min.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/css\/bootstrap\/css\/bootstrap-theme.min-min.css",
+		"oAP": "\/bootstrap\/css\/bootstrap-theme.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/css\/bootstrap\/css\/bootstrap-theme.min.css.map": {
+	"\/bootstrap\/css\/bootstrap-theme.min.css.map": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/css\/bootstrap\/css\/bootstrap-theme.min.css.map",
+		"oAP": "\/bootstrap\/css\/bootstrap-theme.min.css.map",
 		"oF": 0
 		},
-	"\/css\/bootstrap\/css\/bootstrap.css": {
+	"\/bootstrap\/css\/bootstrap.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/css\/bootstrap\/css\/bootstrap-min.css",
+		"oAP": "\/bootstrap\/css\/bootstrap-min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/css\/bootstrap\/css\/bootstrap.css.map": {
+	"\/bootstrap\/css\/bootstrap.css.map": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/css\/bootstrap\/css\/bootstrap.css.map",
+		"oAP": "\/bootstrap\/css\/bootstrap.css.map",
 		"oF": 0
 		},
-	"\/css\/bootstrap\/css\/bootstrap.min-min.css": {
+	"\/bootstrap\/css\/bootstrap.min-min.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/css\/bootstrap\/css\/bootstrap.min-min-min.css",
+		"oAP": "\/bootstrap\/css\/bootstrap.min-min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/css\/bootstrap\/css\/bootstrap.min-min.css.map": {
+	"\/bootstrap\/css\/bootstrap.min-min.css.map": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/css\/bootstrap\/css\/bootstrap.min-min.css.map",
+		"oAP": "\/bootstrap\/css\/bootstrap.min-min.css.map",
 		"oF": 0
 		},
-	"\/css\/bootstrap\/css\/bootstrap.min.css": {
+	"\/bootstrap\/css\/bootstrap.min.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/css\/bootstrap\/css\/bootstrap.min-min.css",
+		"oAP": "\/bootstrap\/css\/bootstrap.min-min.css",
 		"oF": 0,
 		"oS": 0
 		},
-	"\/css\/bootstrap\/css\/bootstrap.min.css.map": {
+	"\/bootstrap\/css\/bootstrap.min.css.map": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/css\/bootstrap\/css\/bootstrap.min.css.map",
+		"oAP": "\/bootstrap\/css\/bootstrap.min.css.map",
 		"oF": 0
 		},
-	"\/css\/bootstrap\/fonts\/glyphicons-halflings-regular.eot": {
+	"\/bootstrap\/fonts\/glyphicons-halflings-regular.eot": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/css\/bootstrap\/fonts\/glyphicons-halflings-regular.eot",
+		"oAP": "\/bootstrap\/fonts\/glyphicons-halflings-regular.eot",
 		"oF": 0
 		},
-	"\/css\/bootstrap\/fonts\/glyphicons-halflings-regular.svg": {
+	"\/bootstrap\/fonts\/glyphicons-halflings-regular.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "\/css\/bootstrap\/fonts\/glyphicons-halflings-regular.svg",
+		"oAP": "\/bootstrap\/fonts\/glyphicons-halflings-regular.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
 		},
-	"\/css\/bootstrap\/fonts\/glyphicons-halflings-regular.ttf": {
+	"\/bootstrap\/fonts\/glyphicons-halflings-regular.ttf": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/css\/bootstrap\/fonts\/glyphicons-halflings-regular.ttf",
+		"oAP": "\/bootstrap\/fonts\/glyphicons-halflings-regular.ttf",
 		"oF": 0
 		},
-	"\/css\/bootstrap\/fonts\/glyphicons-halflings-regular.woff": {
+	"\/bootstrap\/fonts\/glyphicons-halflings-regular.woff": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/css\/bootstrap\/fonts\/glyphicons-halflings-regular.woff",
+		"oAP": "\/bootstrap\/fonts\/glyphicons-halflings-regular.woff",
 		"oF": 0
 		},
-	"\/css\/bootstrap\/fonts\/glyphicons-halflings-regular.woff2": {
+	"\/bootstrap\/fonts\/glyphicons-halflings-regular.woff2": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/css\/bootstrap\/fonts\/glyphicons-halflings-regular.woff2",
+		"oAP": "\/bootstrap\/fonts\/glyphicons-halflings-regular.woff2",
 		"oF": 0
 		},
-	"\/css\/bootstrap\/js\/bootstrap-min.js": {
+	"\/bootstrap\/js\/bootstrap-min.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/css\/bootstrap\/js\/bootstrap-min-min.js",
+		"oAP": "\/bootstrap\/js\/bootstrap-min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/css\/bootstrap\/js\/bootstrap.js": {
+	"\/bootstrap\/js\/bootstrap.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/css\/bootstrap\/js\/bootstrap-min.js",
+		"oAP": "\/bootstrap\/js\/bootstrap-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/css\/bootstrap\/js\/bootstrap.min-min.js": {
+	"\/bootstrap\/js\/bootstrap.min-min.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/css\/bootstrap\/js\/bootstrap.min-min-min.js",
+		"oAP": "\/bootstrap\/js\/bootstrap.min-min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/css\/bootstrap\/js\/bootstrap.min.js": {
+	"\/bootstrap\/js\/bootstrap.min.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/css\/bootstrap\/js\/bootstrap.min-min.js",
+		"oAP": "\/bootstrap\/js\/bootstrap.min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/css\/bootstrap\/js\/npm-min.js": {
+	"\/bootstrap\/js\/npm-min.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/css\/bootstrap\/js\/npm-min-min.js",
+		"oAP": "\/bootstrap\/js\/npm-min-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
 		},
-	"\/css\/bootstrap\/js\/npm.js": {
+	"\/bootstrap\/js\/npm.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/css\/bootstrap\/js\/npm-min.js",
+		"oAP": "\/bootstrap\/js\/npm-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
+		},
+	"\/build\/.gitignore": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/.gitignore",
+		"oF": 0
+		},
+	"\/css\/font-awesome\/css\/font-awesome-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/font-awesome\/css\/font-awesome-min-min.css",
+		"oF": 0,
+		"oS": 0
 		},
 	"\/css\/font-awesome\/css\/font-awesome.css": {
 		"aP": 1,
@@ -715,6 +731,16 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/css\/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/style-min.css",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/css\/style.sass": {
 		"aP": 0,
 		"bl": 0,
@@ -728,29 +754,127 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"\/index.jade": {
-		"cOD": 1,
-		"ft": 512,
+	"\/img\/buildings.jpg": {
+		"ft": 16384,
+		"iS": 146887,
 		"oA": 0,
-		"oAP": "\/index.html",
+		"oAP": "\/img\/buildings.jpg",
 		"oF": 0,
-		"oS": 0
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/clouds.jpg": {
+		"ft": 16384,
+		"iS": 203512,
+		"oA": 0,
+		"oAP": "\/img\/clouds.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/index.html",
+		"oF": 0
+		},
+	"\/jade\/footer.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/jade\/footer.html",
+		"oF": 0
 		},
 	"\/jade\/footer.jade": {
 		"cOD": 1,
 		"ft": 512,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/jade\/footer.html",
 		"oF": 0,
 		"oS": 0
 		},
+	"\/jade\/header.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/jade\/header.html",
+		"oF": 0
+		},
 	"\/jade\/header.jade": {
 		"cOD": 1,
 		"ft": 512,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/jade\/header.html",
 		"oF": 0,
 		"oS": 0
+		},
+	"\/jade\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/jade\/index.html",
+		"oF": 0
+		},
+	"\/jade\/index.jade": {
+		"cOD": 1,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/jade\/index.html",
+		"oF": 0,
+		"oS": 0
+		},
+	"\/js\/app-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/app-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/app.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/app-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/jquery-3.2.1.min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/jquery-3.2.1.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/jquery.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/jquery-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/smoothscroll-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/smoothscroll-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/smoothscroll.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/smoothscroll-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
 		}
 	},
 "hooks": [
