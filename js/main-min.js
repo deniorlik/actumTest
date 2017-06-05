@@ -1,0 +1,1 @@
+$("form.ajax").on("submit",function(){var t=$(this),a=t.attr("action"),n=t.attr("method"),o={};return t.find("[name]").each(function(){var t=$(this),a=t.attr("name"),n=t.val();o[a]=n}),console.log(o),!1});

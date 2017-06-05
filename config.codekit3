@@ -780,48 +780,6 @@
 		"oAP": "\/index.html",
 		"oF": 0
 		},
-	"\/jade\/footer.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/jade\/footer.html",
-		"oF": 0
-		},
-	"\/jade\/footer.jade": {
-		"cOD": 1,
-		"ft": 512,
-		"oA": 1,
-		"oAP": "\/jade\/footer.html",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/jade\/header.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/jade\/header.html",
-		"oF": 0
-		},
-	"\/jade\/header.jade": {
-		"cOD": 1,
-		"ft": 512,
-		"oA": 1,
-		"oAP": "\/jade\/header.html",
-		"oF": 0,
-		"oS": 0
-		},
-	"\/jade\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/jade\/index.html",
-		"oF": 0
-		},
-	"\/jade\/index.jade": {
-		"cOD": 1,
-		"ft": 512,
-		"oA": 0,
-		"oAP": "\/jade\/index.html",
-		"oF": 0,
-		"oS": 0
-		},
 	"\/js\/app-min.js": {
 		"ft": 64,
 		"mi": 1,
@@ -854,6 +812,24 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/js\/jquery-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/main-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/main-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/js\/main.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/main-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
