@@ -1,1 +1,1 @@
-$("form.ajax").on("submit",function(){var t=$(this),a=t.attr("action"),n=t.attr("method"),o={};return t.find("[name]").each(function(){var t=$(this),a=t.attr("name"),n=t.val();o[a]=n}),$.ajax({url:a,type:n,data:o,success:function(t){console.log(t)}}),!1});
+$("form.ajax").on("submit",function(){var t=$(this),a=t.attr("action"),n=t.attr("method"),o={};return t.find("[name]").each(function(t,a){var n=$(this),r=n.attr("name"),a=n.val();o[r]=a}),$.ajax({url:a,type:n,data:o,success:function(t){console.log(t)}}),!1});
