@@ -1,1 +1,0 @@
-$(document).ready(function(){$(".welcome").hide().fadeIn(2e3).delay(12e3),$(".phone").hide().fadeIn(1e3).delay(2e3)});
